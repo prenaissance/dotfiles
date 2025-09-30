@@ -1,0 +1,11 @@
+codelldb-bin
+insomnia-bin
+libfprint-ft9366
+minecraft-launcher
+mongodb-compass-bin
+opentabletdriver
+osu-lazer-bin
+paru
+paru-debug
+visual-studio-code-bin
+waydroid
