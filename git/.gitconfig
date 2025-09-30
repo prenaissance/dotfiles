@@ -1,0 +1,8 @@
+[user]
+	name = prenaissance
+	email = 95138356+prenaissance@users.noreply.github.com
+	signingkey = /home/prenaissance/.ssh/id_ed25519.pub
+[gpg]
+	format = ssh
+[commit]
+	gpgsign = true
