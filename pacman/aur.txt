@@ -1,3 +1,4 @@
+asusctl
 codelldb-bin
 insomnia-bin
 libfprint-ft9366
@@ -7,5 +8,5 @@ opentabletdriver
 osu-lazer-bin
 paru
 paru-debug
+supergfxctl
 visual-studio-code-bin
-waydroid

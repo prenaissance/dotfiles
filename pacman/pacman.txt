@@ -1,8 +1,8 @@
+act
 amd-ucode
 amdgpu_top
 android-tools
 ark
-asusctl
 base
 base-devel
 bluez
@@ -11,6 +11,7 @@ btop
 calibre
 cdrtools
 chromium
+cloc
 discord
 docker
 docker-buildx
@@ -40,6 +41,7 @@ libva-utils
 linux
 linux-firmware
 nano
+nmap
 noto-fonts-cjk
 nvidia-open
 obs-studio
@@ -64,12 +66,14 @@ stow
 telegram-desktop
 tree
 vulkan-radeon
+webkit2gtk-4.1
 wget
 wireless_tools
 wireplumber
 wl-clipboard
 wpa_supplicant
 xdg-utils
+xf86-input-evdev
 xf86-video-amdgpu
 xf86-video-ati
 xorg-xinit
